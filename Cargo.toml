@@ -1,0 +1,8 @@
+[package]
+name = "graph_problem"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+contest-llamas = {path = "/home/luis/workspace/rust-ars-algorithmica"}
+src = "0.0.6"
